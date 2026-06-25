@@ -8,7 +8,8 @@ local function Notify()
 end
 
 local Scripts = {
-    [97598239454123] = "https://raw.githubusercontent.com/FakeModz/ZeroImpact/refs/heads/main/gag2.lua", -- Grow a Garden
+    [97598239454123] = "https://raw.githubusercontent.com/FakeModz/ZeroImpact/refs/heads/main/gag2.lua", -- Grow a Garden 2
+    [77085202503540] = "https://raw.githubusercontent.com/FakeModz/ZeroImpact/refs/heads/main/gag2.lua", -- Newbie Server Grow a Garden 2
 }
 
 local scriptUrl = Scripts[game.PlaceId]
